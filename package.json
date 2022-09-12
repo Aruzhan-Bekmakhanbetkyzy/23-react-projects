@@ -1,7 +1,6 @@
 {
-  "dependencies": {
-    "react-icons": "^4.4.0",
-    "values.js": "^2.1.1"
-    // something
-  }
+    "dependencies": {
+        "react-icons": "^4.4.0",
+        "values.js": "^2.1.1"
+    }
 }
