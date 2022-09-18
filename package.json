@@ -1,7 +1,9 @@
 {
     "dependencies": {
+        "moment": "^2.29.4",
         "react-icons": "^4.4.0",
         "react-markdown": "^8.0.3",
+        "react-moment": "^1.1.2",
         "react-router-dom": "^6.4.0",
         "values.js": "^2.1.1"
     }
